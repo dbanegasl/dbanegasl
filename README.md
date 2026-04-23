@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D2B0D&height=160&text=Daniel%20Banegas&fontSize=48&fontColor=00FF41&fontAlignY=45&desc=Ingeniero%20en%20Sistemas%20%7C%20Full-Stack%20Engineer%20%7C%20IA%20%26%20Entornos%20Virtuales&descSize=16&descAlignY=70&descFontColor=39FF14" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D2B0D&height=160&text=Daniel%20Banegas&fontSize=48&fontColor=00FF41&fontAlignY=45&desc=Ingeniero%20en%20Sistemas%20%7C%20Full-Stack%20Engineer%20%7C%20IA%20y%20Entornos%20Virtuales&descSize=16&descAlignY=70&descFontColor=39FF14" />
 </div>
 
 <div align="center">
