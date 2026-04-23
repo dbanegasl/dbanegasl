@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=200&section=header&text=Hola,%20soy%20Daniel%20Banegas&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D2B0D&height=160&text=Daniel%20Banegas&fontSize=48&fontColor=00FF41&fontAlignY=45&desc=Ingeniero%20en%20Sistemas%20%7C%20Full-Stack%20Engineer%20%7C%20IA%20%26%20Entornos%20Virtuales&descSize=16&descAlignY=70&descFontColor=39FF14" />
 </div>
 
-<h3 align="center">Ingeniero en Sistemas | Full-Stack Software Engineer | Especialista Entornos Virtuales e IA</h3>
-
-<p align="center">
-  Fusionando la infraestructura crítica con la Inteligencia Artificial y la transformación digital.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=Analista+de+Entornos+Virtuales+%40+UNAE;Gerente+T%C3%A9cnico+%40+DUOTICS;Desarrollando+MIA+%E2%80%94+IA+Generativa+con+RAG;Investigador+EPISTEME+%7C+Co-autor+ICITED26" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -43,12 +41,4 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
----
 
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbanegasl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbanegasl&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub" />
-</div>
