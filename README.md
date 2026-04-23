@@ -10,10 +10,10 @@
 
 <div align="center">
 
-![Experiencia](https://img.shields.io/badge/%2B15%20a%C3%B1os-Experiencia-00FF41?style=flat-square&labelColor=0D1117)
-![Proyectos](https://img.shields.io/badge/%2B100-Proyectos%20Exitosos-00FF41?style=flat-square&labelColor=0D1117)
-![Roles](https://img.shields.io/badge/2-Roles%20Activos-00FF41?style=flat-square&labelColor=0D1117)
-![Alcance](https://img.shields.io/badge/Ecuador%20%7C%20USA-Alcance%20Internacional-00FF41?style=flat-square&labelColor=0D1117)
+![Experiencia](https://img.shields.io/badge/%2B15%20a%C3%B1os-Experiencia-39FF14?style=flat&labelColor=AAFFA0)
+![Proyectos](https://img.shields.io/badge/%2B100-Proyectos%20Exitosos-39FF14?style=flat&labelColor=AAFFA0)
+![Roles](https://img.shields.io/badge/2-Roles%20Activos-39FF14?style=flat&labelColor=AAFFA0)
+![Alcance](https://img.shields.io/badge/Ecuador%20%7C%20USA-Alcance%20Internacional-39FF14?style=flat&labelColor=AAFFA0)
 
 </div>
 
@@ -217,5 +217,5 @@ Combino experiencia técnica profunda con visión estratégica de negocio: desde
 ---
 
 <div align="center">
-  <sub>💡 El código real está en <a href="https://github.com/duotics">@duotics</a> · Este perfil es mi identidad técnica personal</sub>
+  <sub>💡 Más proyectos en <a href="https://github.com/duotics">@duotics</a> · <a href="https://www.duotics.com">duotics.com</a></sub>
 </div>
